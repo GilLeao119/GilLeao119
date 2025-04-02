@@ -2,42 +2,23 @@
 
 ### Who am I?
 
-I am a developer who enjoys creating apps and solutions for random challenges.
+I'm a passionate and dedicated software developer focused on building robust and scalable applications that solve real-world problems.
 
 ### What do I do?
 
-Currently I'm getting my degree on Informatic Engeneering, and in my free time, I enjoy developing solutions for problems that I come across.
+I'm currently pursuing a degree in Informatics Engineering. Alongside my academic journey, I work on developing practical and innovative solutions using modern technologies and frameworks.
 
 ### When do I do that?
 
-Whenever I have some free time, I love diving into different projects and playing around with various technologies and frameworks.  
-The thing is, I tend to start a bunch of random stuff but rarely finish them.  
-Still, I find it exciting to learn new things while working on these projects.
+In both academic, work and personal projects, I continuously seek opportunities to improve my technical skills. I'm particularly interested in software architecture, full-stack development, and automation.  
 
 ### What are my projects?
 
-I mostly work on personal projects that I don’t make public.  
-However, the ones I do release are usually at least (almost) complete.
-
-You can check my repositories [here](https://github.com/GilLeao119?tab=repositories).
+Most of my work revolves around personal and academic projects. Some are private due to ongoing development or confidential work, but I regularly share complete or near-complete repositories on GitHub.  
+Feel free to explore my work and check out what I've been up to [here](https://github.com/GilLeao119?tab=repositories).
 
 ---
 
-### Want to work together?
-
-If you're interested in working together on a project or just want to chat, feel free to hit me up via [email](mailto:teu-email@gmail.com) or via [Discord](https://discordapp.com/users/teu-id).
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilLeao119&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GilLeao119&show_icons=true&theme=tokyonight)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilLeao119&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GilLeao119&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilLeao119&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
